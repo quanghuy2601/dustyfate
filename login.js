@@ -7,7 +7,7 @@ function test()
     if (username == "1" && password == "1") {
         window.location = "RemoteControl/index.html";
     } 
-    else if (username == "rena" && password == "rena")
+    else if (username == "admin" && password == "admin")
     {
         window.location = "ScanPhoto/index.html";
     }
