@@ -9,7 +9,7 @@ function test()
     } 
     else if (username == "admin" && password == "admin")
     {
-        window.location = "ScanPhoto/index.html";
+        window.location = "Heart/index.html";
     }
     else {
         alert("wrong username or password");
